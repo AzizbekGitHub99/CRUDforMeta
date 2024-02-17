@@ -6,6 +6,7 @@
 //   "React N10",
 //   "React N15",
 //   "React N20",
+//   "React N41"
 // ];
 const positions = [`Frontend`, `Backend`, `Fullstack`];
 const POSITION = `position`;
